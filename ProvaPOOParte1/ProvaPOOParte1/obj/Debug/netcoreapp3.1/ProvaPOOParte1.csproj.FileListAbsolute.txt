@@ -1,0 +1,11 @@
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.exe
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.deps.json
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.runtimeconfig.json
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.runtimeconfig.dev.json
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.dll
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\bin\Debug\netcoreapp3.1\ProvaPOOParte1.pdb
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\obj\Debug\netcoreapp3.1\ProvaPOOParte1.csprojAssemblyReference.cache
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\obj\Debug\netcoreapp3.1\ProvaPOOParte1.AssemblyInfoInputs.cache
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\obj\Debug\netcoreapp3.1\ProvaPOOParte1.AssemblyInfo.cs
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\obj\Debug\netcoreapp3.1\ProvaPOOParte1.dll
+C:\Users\MABB\source\repos\ProvaPOOParte1\ProvaPOOParte1\obj\Debug\netcoreapp3.1\ProvaPOOParte1.pdb

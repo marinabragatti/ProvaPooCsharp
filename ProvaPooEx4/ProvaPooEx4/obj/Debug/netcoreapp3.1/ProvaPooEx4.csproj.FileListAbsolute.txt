@@ -1,0 +1,11 @@
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.exe
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.deps.json
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.runtimeconfig.json
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.runtimeconfig.dev.json
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.dll
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\bin\Debug\netcoreapp3.1\ProvaPooEx4.pdb
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\obj\Debug\netcoreapp3.1\ProvaPooEx4.csprojAssemblyReference.cache
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\obj\Debug\netcoreapp3.1\ProvaPooEx4.AssemblyInfoInputs.cache
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\obj\Debug\netcoreapp3.1\ProvaPooEx4.AssemblyInfo.cs
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\obj\Debug\netcoreapp3.1\ProvaPooEx4.dll
+C:\Users\MABB\source\repos\ProvaPooEx4\ProvaPooEx4\obj\Debug\netcoreapp3.1\ProvaPooEx4.pdb
